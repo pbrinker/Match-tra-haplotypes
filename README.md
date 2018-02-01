@@ -1,4 +1,4 @@
-#General explanations
+General explanations
 <Authors> Fangying Chen, Pina Brinker
 
 ## The goal of this project was to create a tool to determine haplotypes in the sex-determination gen tra.
