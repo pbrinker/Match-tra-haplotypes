@@ -1,0 +1,19 @@
+﻿#Creating Haplotype dictionary
+
+
+
+##Goal:
+Based on the outputfile (name) from Step 2.2 where we determine haplotypes by grouping samples with the same sequence together, we will create a haplotype dictionary. This dictionary can be used for searching with a new sequence for a match
+
+#Preparation of the input file
+Here we want to create a file where we have columns separated by space
+1. Make a copy of the original output file and name it new, e.g. Haplodict
+2. Open the output file in jedit, or text editor of your choice, observe the file, notice that sample ID's are separated by comma. 
+   2.1 Search for comma’s and replace them by semicolon
+3. Bring the sample ID's and sequence in one column and separate with an comma.
+4. Put sequence in the beginning, as it will be the key in our dictionary. Add after it a new column with Haplotype + a continues number. 
+
+Close the file and now you can use it for creating a Haplotype dictionary  with the python script "createhaplodict.py"
+
+
+
