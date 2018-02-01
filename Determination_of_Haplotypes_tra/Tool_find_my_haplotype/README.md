@@ -1,5 +1,5 @@
-#Use Dictionary to find if haplotype from tra is scored
-##Compare tra-sequence with the stored ones in dictionary
+##Use Dictionary to find if haplotype from tra is scored
+Compare tra-sequence with the stored ones in dictionary
 
 The idea is you search for your sequence and you get a hit if it is already scored in the dictionary
 
